@@ -19,3 +19,5 @@ Before starting the experiment:
     Because Student 2 doesn't know whether Student 1 telling the truth or not, the best guess is 50/50 which resulting in 𝜃=0.5 assuming to prior knowledge.
 2. What is the probability that 𝜃 is greater than half?
     Without experimental data our best guess is 0.5 for 𝜃.
+
+## Frequentist Approach
